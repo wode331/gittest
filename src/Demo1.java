@@ -3,6 +3,6 @@ public class Demo1 {
         System.out.println("helloGit!");
     }
     public void run(){
-
+        System.out.println("我是run方法");
     }
 }
