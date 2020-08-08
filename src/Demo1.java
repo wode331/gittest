@@ -7,6 +7,6 @@ public class Demo1 {
         run3();
     }
     public void run3(){
-        System.out.println();
+        System.out.println("我是run3方法");
     }
 }
